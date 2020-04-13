@@ -1,0 +1,39 @@
+body {
+    background-image: url("backgroundReg.png");
+    background-color: #cccccc;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  };
+
+h1 {
+
+    font-size: large;
+    font-family: monospace;
+    float: center;
+}
+
+h2 {
+    font-size: medium;
+    font-family: monospace;
+}
+
+input#abc{
+    width: 93%;
+}
+
+input#comment{
+    width: 93%;
+    height: 150px;
+}
+
+h3 {
+    font-size: medium;
+    font-family: monospace;
+    float: cleftr;
+};
+.container{
+
+    max-width: 800px;
+    
+    };
